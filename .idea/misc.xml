@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/HateOAS/pom.xml" />
+        <option value="$PROJECT_DIR$/quoters/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringExample/pom.xml" />
+        <option value="$PROJECT_DIR$/gs-consuming-rest/initial/pom.xml" />
+        <option value="$PROJECT_DIR$/gs-consuming-rest/complete/pom.xml" />
+        <option value="$PROJECT_DIR$/accessing-neo4j-data-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/Application with Spring Boot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

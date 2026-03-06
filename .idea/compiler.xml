@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot" />
+        <module name="quoters-incorporated" />
+        <module name="accessing-neo4j-data-rest" />
+        <module name="SpringExample" />
+        <module name="HateOAS" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consuming-rest-complete" target="17" />
+      <module name="consuming-rest-initial" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="HateOAS" options="-parameters" />
+      <module name="SpringExample" options="-parameters" />
+      <module name="accessing-neo4j-data-rest" options="-parameters" />
+      <module name="com.example.consuming-rest" options="-parameters" />
+      <module name="com.example.consuming-rest.main" options="-parameters" />
+      <module name="com.example.consuming-rest.test" options="-parameters" />
+      <module name="complete.consuming-rest" options="-parameters" />
+      <module name="complete.consuming-rest.main" options="-parameters" />
+      <module name="complete.consuming-rest.test" options="-parameters" />
+      <module name="consuming-rest" options="-parameters" />
+      <module name="consuming-rest-complete" options="-parameters" />
+      <module name="consuming-rest-initial" options="-parameters" />
+      <module name="consuming-rest.main" options="-parameters" />
+      <module name="consuming-rest.test" options="-parameters" />
+      <module name="initial.consuming-rest" options="-parameters" />
+      <module name="initial.consuming-rest.main" options="-parameters" />
+      <module name="initial.consuming-rest.test" options="-parameters" />
+      <module name="quoters-incorporated" options="-parameters" />
+      <module name="spring-boot" options="-parameters" />
+    </option>
+  </component>
+</project>
